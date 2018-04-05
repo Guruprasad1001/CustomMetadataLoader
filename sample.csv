@@ -1,21 +1,229 @@
-Label,ns1__CountryCode__c,ns1__CountryName__c
-Australia,AU,Australia
-Brazil,BZ,Brazil
-Canada,CA,Canada
-China,CH,China
-Denmark,DE,Denmark
-France,FR,France
-Germany,GR,Germany
-India,IN,India
-Italy,IT,Italy
-Japan,JP,Japan
-Mexico,MX,Mexico
-Nepal,NP,Nepal
-Peru,PE,Peru
-Poland,PL,Poland
-Russia,RS,Russia
-South Africa,SF,SAfrica
-Spain,SP,Spain
-Swiz,SZ,Swiztzerland
-US,US,United States
-United Kingdom,UK,United Kingdom
+DeveloperName	MasterLabel	Dialing_Code__c	Country__c
+Afghanistan	Afghanistan	93	Afghanistan
+Albania	Albania	355	Albania
+Algeria	Algeria	213	Algeria
+American Samoa	American Samoa	685	American Samoa
+Andorra	Andorra	376	Andorra
+Angola	Angola	244	Angola
+Anguilla	Anguilla	1264	Anguilla
+Australian Antarctic Territory	Australian Antarctic Territory	672	Australian Antarctic Territory
+Antigua and Barbuda	Antigua and Barbuda	+1 268	Antigua and Barbuda
+Antilles	Antilles	599	Antilles
+Argentina	Argentina	54	Argentina
+Armenia	Armenia	374	Armenia
+Aruba	Aruba	297	Aruba
+Ascension Island	Ascension Island	247	Ascension Island
+Australia	Australia	61	Australia
+Austria	Austria	43	Austria
+Azerbaijan	Azerbaijan	994	Azerbaijan
+Azores	Azores	351	Azores
+Bahamas	Bahamas	+1 242	Bahamas
+Bahrain	Bahrain	973	Bahrain
+Bangladesh	Bangladesh	880	Bangladesh
+Barbados	Barbados	+1 246	Barbados
+Barbuda and Antigua	Barbuda and Antigua	+1 268	Barbuda and Antigua
+Belarus	Belarus	375	Belarus
+Belgium	Belgium	32	Belgium
+Belize	Belize	501	Belize
+Benin	Benin	229	Benin
+Bermuda	Bermuda	+1 441	Bermuda
+Bhutan	Bhutan	975	Bhutan
+Bolivia	Bolivia	591	Bolivia
+Bosnia Herzegovina	Bosnia Herzegovina	387	Bosnia Herzegovina
+Botswana	Botswana	267	Botswana
+Brazil	Brazil	55	Brazil
+British Virgin Islands	British Virgin Islands	+1 284	British Virgin Islands
+Brunei Darussalam	Brunei Darussalam	673	Brunei Darussalam
+Bulgaria	Bulgaria	359	Bulgaria
+Burkina Faso	Burkina Faso	226	Burkina Faso
+Burma (Myanmar)	Burma (Myanmar)	95	Burma (Myanmar)
+Burundi	Burundi	257	Burundi
+Cambodia	Cambodia	855	Cambodia
+Cameroon	Cameroon	237	Cameroon
+Canada	Canada	1	Canada
+Cape Verde Islands	Cape Verde Islands	238	Cape Verde Islands
+Cayman Islands	Cayman Islands	+1 345	Cayman Islands
+Central African Republic	Central African Republic	236	Central African Republic
+Chad	Chad	235	Chad
+Chile	Chile	56	Chile
+China	China	86	China
+Christmas Island	Christmas Island	672	Christmas Island
+Cocos Island	Cocos Island	672	Cocos Island
+Colombia	Colombia	57	Colombia
+Comoros	Comoros	269	Comoros
+Congo	Congo	242	Congo
+Cook Islands	Cook Islands	682	Cook Islands
+Costa Rica	Costa Rica	506	Costa Rica
+Cote D'Ivoire (Ivory Coast)	Cote D'Ivoire (Ivory Coast)	225	Cote D'Ivoire (Ivory Coast)
+Croatia	Croatia	385	Croatia
+Cuba	Cuba	53	Cuba
+Cyprus	Cyprus	357	Cyprus
+Czech Republic	Czech Republic	42	Czech Republic
+Denmark	Denmark	45	Denmark
+Djibouti	Djibouti	253	Djibouti
+Dominica	Dominica	+1 767	Dominica
+Dominican Rebublic	Dominican Rebublic	+1 809	Dominican Rebublic
+Ecuador	Ecuador	593	Ecuador
+Egypt	Egypt	20	Egypt
+El Salvador	El Salvador	503	El Salvador
+Equatorial Guinea	Equatorial Guinea	240	Equatorial Guinea
+Eritrea	Eritrea	291	Eritrea
+Estonia	Estonia	372	Estonia
+Ethiopia	Ethiopia	251	Ethiopia
+Falkland Islands	Falkland Islands	500	Falkland Islands
+Faroe Islands	Faroe Islands	298	Faroe Islands
+Fiji	Fiji	679	Fiji
+Finland	Finland	358	Finland
+France	France	33	France
+French Guiana	French Guiana	594	French Guiana
+French Polynesia	French Polynesia	689	French Polynesia
+Gabon	Gabon	241	Gabon
+Gambia	Gambia	220	Gambia
+Georgia	Georgia	995	Georgia
+Germany	Germany	49	Germany
+Ghana	Ghana	233	Ghana
+Gibraltar	Gibraltar	350	Gibraltar
+Greece	Greece	30	Greece
+Greenland	Greenland	299	Greenland
+Grenada	Grenada	+1 473	Grenada
+Grenadines	Grenadines	+1 784	Grenadines
+Guadeloupe	Guadeloupe	590	Guadeloupe
+Guam	Guam	671	Guam
+Guatemala	Guatemala	502	Guatemala
+Guinea	Guinea	224	Guinea
+Guinea-Bissau	Guinea-Bissau	245	Guinea-Bissau
+Guyana	Guyana	592	Guyana
+Haiti	Haiti	509	Haiti
+Honduras	Honduras	504	Honduras
+Hong Kong	Hong Kong	852	Hong Kong
+Hungary	Hungary	36	Hungary
+Iceland	Iceland	354	Iceland
+India	India	91	India
+Indonesia	Indonesia	62	Indonesia
+Iran	Iran	98	Iran
+Iraq	Iraq	964	Iraq
+Ireland	Ireland	353	Ireland
+Israel	Israel	972	Israel
+Italy	Italy	39	Italy
+Ivory Coast (Cote d'Ivorie)	Ivory Coast (Cote d'Ivorie)	225	Ivory Coast (Cote d'Ivorie)
+Jamaica	Jamaica	+1 876	Jamaica
+Japan	Japan	81	Japan
+Jordan	Jordan	962	Jordan
+Kazakhstan	Kazakhstan	7	Kazakhstan
+Kenya	Kenya	254	Kenya
+Kirghizstan	Kirghizstan	7	Kirghizstan
+Kiribati	Kiribati	686	Kiribati
+Kosovo	Kosovo	381	Kosovo
+Kuwait	Kuwait	965	Kuwait
+Laos	Laos	856	Laos
+Latvia	Latvia	371	Latvia
+Lebanon	Lebanon	961	Lebanon
+Lesotho	Lesotho	266	Lesotho
+Liberia	Liberia	231	Liberia
+Libya	Libya	218	Libya
+Liechtenstein	Liechtenstein	423	Liechtenstein
+Lithuania	Lithuania	370	Lithuania
+Luxembourg	Luxembourg	352	Luxembourg
+Macao	Macao	853	Macao
+Macedonia	Macedonia	389	Macedonia
+Madagascar	Madagascar	261	Madagascar
+Malawi	Malawi	265	Malawi
+Malaysia	Malaysia	60	Malaysia
+Maldives	Maldives	960	Maldives
+Mali	Mali	223	Mali
+Malta	Malta	356	Malta
+Marshall Islands	Marshall Islands	692	Marshall Islands
+Martinique	Martinique	596	Martinique
+Mauritania	Mauritania	222	Mauritania
+Mauritius	Mauritius	230	Mauritius
+Mayotte	Mayotte	269	Mayotte
+Mexico	Mexico	52	Mexico
+Micronesia	Micronesia	691	Micronesia
+Moldova	Moldova	373	Moldova
+Monaco	Monaco	377	Monaco
+Mongolia	Mongolia	976	Mongolia
+Montenegro	Montenegro	382	Montenegro
+Montserrat	Montserrat	+1 664	Montserrat
+Morocco	Morocco	212	Morocco
+Mozambique	Mozambique	258	Mozambique
+Namibia	Namibia	264	Namibia
+Nauru	Nauru	674	Nauru
+Napal	Napal	977	Napal
+Netherlands (Holland)	Netherlands (Holland)	31	Netherlands (Holland)
+Netherlands Antilles	Netherlands Antilles	599	Netherlands Antilles
+New Caledonia	New Caledonia	687	New Caledonia
+New Zealand	New Zealand	64	New Zealand
+Nicaragua	Nicaragua	505	Nicaragua
+Niger Republic	Niger Republic	227	Niger Republic
+Nigeria	Nigeria	234	Nigeria
+Norway	Norway	47	Norway
+North Korea	North Korea	850	North Korea
+Oman	Oman	968	Oman
+Pakistan	Pakistan	92	Pakistan
+Panama	Panama	507	Panama
+Papua New Guinea	Papua New Guinea	675	Papua New Guinea
+Paraguay	Paraguay	595	Paraguay
+Peru	Peru	51	Peru
+Philippines	Philippines	63	Philippines
+Pitcairn Island	Pitcairn Island	649	Pitcairn Island
+Poland	Poland	48	Poland
+Portugal	Portugal	351	Portugal
+Puerto Rico	Puerto Rico	+1 787	Puerto Rico
+Qatar	Qatar	974	Qatar
+Romania	Romania	40	Romania
+Russia	Russia	7	Russia
+Rwanda	Rwanda	250	Rwanda
+St Helena	St Helena	290	St Helena
+St Kitts and Nevis	St Kitts and Nevis	+1 869	St Kitts and Nevis
+St Lucia	St Lucia	+1 758	St Lucia
+St Vincent	St Vincent	+1 784	St Vincent
+San Marino	San Marino	378	San Marino
+Saudi Arabia	Saudi Arabia	966	Saudi Arabia
+Senegal	Senegal	221	Senegal
+Serbia	Serbia	381	Serbia
+Seychelles	Seychelles	248	Seychelles
+Sierra Leone	Sierra Leone	232	Sierra Leone
+Singapore	Singapore	65	Singapore
+Slovakia	Slovakia	421	Slovakia
+Slovenia	Slovenia	386	Slovenia
+Solomon Islands	Solomon Islands	677	Solomon Islands
+Somalia	Somalia	252	Somalia
+South Africa	South Africa	27	South Africa
+South Korea	South Korea	82	South Korea
+Spain	Spain	349	Spain
+Sri Lanka	Sri Lanka	94	Sri Lanka
+Sudan	Sudan	249	Sudan
+Surinam	Surinam	597	Surinam
+Swaziland	Swaziland	268	Swaziland
+Sweden	Sweden	46	Sweden
+Switzerland	Switzerland	41	Switzerland
+Syria	Syria	963	Syria
+Taiwan	Taiwan	886	Taiwan
+Tajikistan	Tajikistan	7	Tajikistan
+Tanzania	Tanzania	255	Tanzania
+Thailand	Thailand	66	Thailand
+Togo	Togo	228	Togo
+Tonga	Tonga	676	Tonga
+Trinidad & Tobago	Trinidad & Tobago	+1 868	Trinidad & Tobago
+Tunisia	Tunisia	216	Tunisia
+Turkey	Turkey	90	Turkey
+Turkmenistan	Turkmenistan	7	Turkmenistan
+Turks & Caicos Islands	Turks & Caicos Islands	1649	Turks & Caicos Islands
+Tuvalu	Tuvalu	688	Tuvalu
+Uganda	Uganda	256	Uganda
+Ukraine	Ukraine	380	Ukraine
+United Arab Emirates	United Arab Emirates	971	United Arab Emirates
+United Kingdom	United Kingdom	44	United Kingdom
+Uraguay	Uraguay	598	Uraguay
+USA	USA	1	USA
+Uzbekistan	Uzbekistan	998	Uzbekistan
+Vanuatu	Vanuatu	678	Vanuatu
+Vatican City	Vatican City	39	Vatican City
+Venezuela	Venezuela	58	Venezuela
+Vietnam	Vietnam	84	Vietnam
+Virgin Islands (US)	Virgin Islands (US)	1340	Virgin Islands (US)
+Western Samoa	Western Samoa	685	Western Samoa
+Yemen	Yemen	967	Yemen
+Zaire (Congo)	Zaire (Congo)	243	Zaire (Congo)
+Zambia	Zambia	260	Zambia
+Zimbabwe	Zimbabwe	263	Zimbabwe
